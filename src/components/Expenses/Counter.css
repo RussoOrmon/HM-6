@@ -1,0 +1,22 @@
+
+.btnPlus{
+color:black;
+background-color:rgb(13, 246, 13) ;
+font-size: 30px;
+font-weight: bold;
+cursor: pointer;
+}
+.btnPlus:hover{
+   filter: brightness(0.25);
+}
+
+.btnMinus{
+   color:black;
+   background-color: rgb(221, 255, 0);
+   font-size: 30px;
+   font-weight: bold;
+   cursor: pointer;
+}
+.btnMinus:hover{
+   filter: brightness(0.25);
+}
